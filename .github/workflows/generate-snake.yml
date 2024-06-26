@@ -39,7 +39,10 @@ jobs:
           git commit -m "Generate snake gif and svg"
 
       - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Thejas04/Thejas04.git
           git push origin HEAD:output
 
       - name: Deploy to GitHub Pages
@@ -54,4 +57,3 @@ jobs:
         run: |
           git reset --hard
           git clean -fdx
-
