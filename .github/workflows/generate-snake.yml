@@ -17,13 +17,13 @@ jobs:
     steps:
       # Step 1: Checkout the repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
-        uses: actions/checkout@v4  # Updated to the latest version
+        uses: actions/checkout@v4  # Ensure using the latest version
 
-      # Step 2: Set up Node.js environment (if needed by the snake generation tool)
+      # Step 2: Set up Node.js environment (using Node.js 20)
       - name: Setup Node.js
-        uses: actions/setup-node@v3  # Updated to the latest version
+        uses: actions/setup-node@v3  # Ensure using the latest version
         with:
-          node-version: '20'  # Updated to the latest LTS version
+          node-version: '20'
 
       # Step 3: Generate the snake GIF and SVG
       - name: Generate snake gif and svg
