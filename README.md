@@ -1,11 +1,11 @@
 # Hi there, I'm Thejas Malenahalli Niranjan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=username&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/username?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Thejas04&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/Thejas04?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Thejas04?style=social)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejas04&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thejas04&show_icons=true&count_private=true)
 
 ## <img src="https://img.icons8.com/fluency/48/000000/about.png" width="30" height="30"> About Me
 I am a passionate software developer with experience in building web and mobile applications. I love working with modern technologies and continually improving my skills.
@@ -18,10 +18,10 @@ I am a passionate software developer with experience in building web and mobile 
 - **Tools**: ![Git](https://img.icons8.com/color/48/000000/git.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
 
 ## <img src="https://img.icons8.com/fluency/48/000000/project.png" width="30" height="30"> Projects
-### [Project 1](https://github.com/username/project1)
+### [Project 1](https://github.com/Thejas04/project1)
 A brief description of what this project does and why it is useful.
 
-### [Project 2](https://github.com/username/project2)
+### [Project 2](https://github.com/Thejas04/project2)
 A brief description of what this project does and why it is useful.
 
 ## <img src="https://img.icons8.com/fluency/48/000000/contact-card.png" width="30" height="30"> Contact Me
