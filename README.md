@@ -3,7 +3,7 @@
 
 ### 🚀 Software Developer & CyberSecurity Engineer
 
-Passionate about full-stack development and cloud architecture, I thrive on solving complex problems and contributing to innovative projects that make a difference. 
+Passionate about full-stack development, cybersecurity expert and cloud architecture, I thrive on solving complex problems and contributing to innovative projects that make a difference. 
 
 ---
 
@@ -59,7 +59,7 @@ Passionate about full-stack development and cloud architecture, I thrive on solv
 - **Languages**: HTML, CSS, JavaScript, Python, PHP
 - **Frameworks & Libraries**: Django, Bootstrap, React, Node.js
 - **Tools & Platforms**: AWS, Docker, Kubernetes, GitHub, Nextcloud
-- **Other Skills**: Ethical Hacking, DevOps, UI/UX, SQL, SOC, IOT, Server Maintenance, SEO, Communication, Teamwork
+- **Other Skills**: Ethical Hacking, VAPT, Firewall, Networking, DevOps, UI/UX, SQL, SOC, IOT, Server Maintenance, SEO, Communication, Teamwork
 
 ---
 
