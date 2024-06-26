@@ -10,8 +10,6 @@
 ## <img src="https://img.icons8.com/fluency/48/000000/about.png" width="30" height="30"> About Me
 I am a passionate software developer with experience in building web and mobile applications. I love working with modern technologies and continually improving my skills.
 
-![Profile Picture](./images/profile-pic.jpeg)
-
 ## <img src="https://img.icons8.com/fluency/48/000000/code.png" width="30" height="30"> Skills
 - **Languages**: ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Java](https://img.icons8.com/color/48/000000/java.png)
 - **Frameworks**: ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Django](https://img.icons8.com/color/48/000000/django.png) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
@@ -33,6 +31,6 @@ A brief description of what this project does and why it is useful.
 
 ## <img src="https://img.icons8.com/fluency/48/000000/github.png" width="30" height="30"> Contributions
 ![Contributions](./images/contributions.png)
-
 ![Contributions](./images/contributions.gif)
+
 
