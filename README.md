@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Thejas04&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/Thejas04?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Thejas04?style=social)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thejas04&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thejas04&show_icons=true&count_private=true)
